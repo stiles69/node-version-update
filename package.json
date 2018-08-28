@@ -1,0 +1,22 @@
+{
+  "name": "versioner",
+  "version": "0.1.0",
+  "description": "This is my first attempt at node module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stiles69/node-version-update.git"
+  },
+  "author": "stiles69",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stiles69/node-version-update/issues"
+  },
+  "homepage": "https://github.com/stiles69/node-version-update#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.0"
+  }
+}
